@@ -1,2 +1,2 @@
-# Classification-Default_credit_card
+# Rating defaulting credit card users
 Classification models for predicting credit card defaulters, using Python.
